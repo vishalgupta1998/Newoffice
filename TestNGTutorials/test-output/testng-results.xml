@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="7" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="College Data" duration-ms="68" started-at="2020-12-04T10:27:22Z" finished-at="2020-12-04T10:27:22Z">
+    <groups>
+    </groups>
+    <test name="Records" duration-ms="68" started-at="2020-12-04T10:27:22Z" finished-at="2020-12-04T10:27:22Z">
+      <class name="Practise.day2">
+        <test-method status="PASS" signature="boAligned(java.lang.String, java.lang.String)[pri:0, instance:Practise.day2@77cd7a0]" name="boAligned" duration-ms="9" started-at="2020-12-04T15:57:22Z" data-provider="provider" finished-at="2020-12-04T15:57:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[First Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[First Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boAligned -->
+        <test-method status="PASS" signature="boAligned(java.lang.String, java.lang.String)[pri:0, instance:Practise.day2@77cd7a0]" name="boAligned" duration-ms="2" started-at="2020-12-04T15:57:22Z" data-provider="provider" finished-at="2020-12-04T15:57:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Second Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Second password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boAligned -->
+        <test-method status="PASS" signature="boAligned(java.lang.String, java.lang.String)[pri:0, instance:Practise.day2@77cd7a0]" name="boAligned" duration-ms="1" started-at="2020-12-04T15:57:22Z" data-provider="provider" finished-at="2020-12-04T15:57:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Third Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Third password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boAligned -->
+        <test-method status="PASS" signature="bookedBooks()[pri:0, instance:Practise.day2@77cd7a0]" name="bookedBooks" duration-ms="7" started-at="2020-12-04T15:57:22Z" finished-at="2020-12-04T15:57:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookedBooks -->
+        <test-method status="PASS" signature="booksAligned()[pri:0, instance:Practise.day2@77cd7a0]" name="booksAligned" duration-ms="2" started-at="2020-12-04T15:57:22Z" finished-at="2020-12-04T15:57:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booksAligned -->
+      </class> <!-- Practise.day2 -->
+    </test> <!-- Records -->
+  </suite> <!-- College Data -->
+</testng-results>
