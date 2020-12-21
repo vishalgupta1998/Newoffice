@@ -51,4 +51,5 @@
 <fullyQualifiedTypeName name="Maven.AllInOne.Assert"/>
 <fullyQualifiedTypeName name="com.google.j2objc.annotations.Property"/>
 <fullyQualifiedTypeName name="org.testng.ReporterConfig.Property"/>
+<fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
 </qualifiedTypeNameHistroy>

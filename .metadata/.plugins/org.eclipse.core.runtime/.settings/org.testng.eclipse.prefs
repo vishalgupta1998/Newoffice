@@ -1,3 +1,4 @@
+E2E.outdir=/test-output
 E2EProject.outdir=/test-output
 eclipse.preferences.version=1
 jvmArgs=-Dtestng.dtd.http\=true
