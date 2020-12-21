@@ -49,7 +49,7 @@ public class HomePage extends base{
 		ForgotPassword fp= lp.forgotPassword();
 		fp.getEmail().sendKeys("xxx");
 		fp.sendMeInstructions().click();
-		Assert.assertEquals("hi", "hello");
+		//Assert.assertEquals("hi", "hello");
 		
 		
 		

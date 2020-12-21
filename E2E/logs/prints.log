@@ -1,7 +1,8 @@
-17:45:50.091 [main] INFO  resources.base - Navigated to Home page
-17:45:56.247 [main] INFO  resources.base - Navigation Bar is displayed
-18:07:40.864 [main] INFO  resources.base - Restrcited User
-18:07:46.791 [main] INFO  resources.base - Non restricted user
-18:07:51.622 [main] INFO  resources.base - Driver is initialized
-18:07:58.151 [main] INFO  resources.base - Navigated to Home page
-18:08:04.139 [main] INFO  resources.base - Navigation Bar is displayed
+13:31:38.250 [main] INFO  resources.base - Driver is initialized
+13:31:41.077 [main] INFO  resources.base - Navigated to Home page
+13:31:48.292 [main] INFO  resources.base - Navigation Bar is displayed
+15:38:12.946 [main] INFO  resources.base - Restrcited User
+15:38:15.980 [main] INFO  resources.base - Non restricted user
+15:38:20.589 [main] INFO  resources.base - Driver is initialized
+15:38:23.282 [main] INFO  resources.base - Navigated to Home page
+15:38:30.564 [main] INFO  resources.base - Navigation Bar is displayed
