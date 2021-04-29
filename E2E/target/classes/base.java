@@ -21,7 +21,6 @@ public class base {
 	public Properties prop;
 public WebDriver initializeDriver() throws IOException
 {
-	
  prop= new Properties();
 FileInputStream fis=new FileInputStream("C:\\Users\\pc\\workspace\\E2EProject\\E2EProject\\src\\main\\java\\resources\\data.properties");
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Tests.Listeners1234"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="Tests.AddEditProductionGoal">
+        <methods>
+          <include name="config"/>
+          <include name="teardown"/>
+          <include name="AddEditProductionGoals" invocation-numbers="3"/>
+        </methods>
+      </class> <!-- Tests.AddEditProductionGoal -->
+      <class name="Tests.LoadDashboardAPI">
+        <methods>
+          <include name="loadDashboard" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- Tests.LoadDashboardAPI -->
+      <class name="Tests.Loadwidgetdetails">
+        <methods>
+          <include name="LoadWidgetsDetails" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- Tests.Loadwidgetdetails -->
+      <class name="Tests.LoadProductionChartAPI">
+        <methods>
+          <include name="LoadProductionChart" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- Tests.LoadProductionChartAPI -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
